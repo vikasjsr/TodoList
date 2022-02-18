@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* background-color: #1F1b24;
+    color: lightcyan; */
+}
+
+.container h1{
+    
+    text-align: center;
+   
+}
+
+
+.list-group-item{
+    background-color: aquamarine;
+    border: 1px solid;
+}
+
